@@ -1,0 +1,5 @@
+divmod: 17 / 5 = 3 remainder 2
+divmod: 20 / 4 = 5 remainder 0
+divmod: 3 / 10 = 0 remainder 3
+divmod: 9 / 0 is undefined
+divmod: -7 / 2 = -3 remainder -1

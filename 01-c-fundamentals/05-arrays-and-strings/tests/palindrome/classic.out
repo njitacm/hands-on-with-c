@@ -1,0 +1,5 @@
+"racecar" reversed is "racecar" -> palindrome
+"hello" reversed is "olleh" -> not a palindrome
+"level" reversed is "level" -> palindrome
+"NJIT" reversed is "TIJN" -> not a palindrome
+"a" reversed is "a" -> palindrome

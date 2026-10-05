@@ -1,0 +1,9 @@
+sum_digits(0) = 0
+sum_digits(7) = 7
+sum_digits(12345) = 15
+sum_digits(1000000) = 1
+sum_digits(2147483647) = 46
+digital_root(7) = 7
+digital_root(38) = 2
+digital_root(98765) = 8
+digital_root(999999999) = 9

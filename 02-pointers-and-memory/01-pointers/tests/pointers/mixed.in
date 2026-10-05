@@ -1,0 +1,5 @@
+swap 1 2
+minmax 3 10 -10 0
+divmod 100 7
+time 4000
+swap 0 -5

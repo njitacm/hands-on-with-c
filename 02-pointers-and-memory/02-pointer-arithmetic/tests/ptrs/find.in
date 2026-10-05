@@ -1,0 +1,6 @@
+find 7 in 3 7 9 7
+find 3 in 3 7 9
+find 9 in 3 7 9
+find 5 in 3 7 9
+find 1 in
+find -2 in 4 -2

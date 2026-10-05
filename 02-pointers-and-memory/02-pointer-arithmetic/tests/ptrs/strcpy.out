@@ -1,0 +1,4 @@
+strcpy: "hello" (returned dst)
+strcpy: "" (returned dst)
+strcpy: "Hands-On with C" (returned dst)
+strcpy: "x" (returned dst)

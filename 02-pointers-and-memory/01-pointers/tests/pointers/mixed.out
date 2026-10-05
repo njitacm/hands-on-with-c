@@ -1,0 +1,5 @@
+swap: x=2 y=1
+minmax: min=-10 max=10
+divmod: 100 / 7 = 14 remainder 2
+time: 4000 s = 1h 06m 40s
+swap: x=-5 y=0

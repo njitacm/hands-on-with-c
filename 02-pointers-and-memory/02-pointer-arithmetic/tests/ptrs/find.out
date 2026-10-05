@@ -1,0 +1,6 @@
+find: 7 found at index 1
+find: 3 found at index 0
+find: 9 found at index 2
+find: 5 not found
+find: 1 not found
+find: -2 found at index 1

@@ -1,0 +1,5 @@
+is_prime(13) = true
+gcd(48, 36) = 12
+power(3, 4) = 81
+sum_digits(2026) = 10
+digital_root(2026) = 1

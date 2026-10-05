@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.out.tmp
+*.i
+*.s
+*.dSYM/
+a.out
+core
+core.*
+vgcore.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Nix Stuff
+.envrc
+.direnv/
+flake.nix
+flake.lock
+result

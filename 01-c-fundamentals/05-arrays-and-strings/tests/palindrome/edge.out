@@ -1,0 +1,6 @@
+"" reversed is "" -> palindrome
+"ab" reversed is "ba" -> not a palindrome
+"aa" reversed is "aa" -> palindrome
+"12321" reversed is "12321" -> palindrome
+"Taco cat" reversed is "tac ocaT" -> palindrome
+"!?!" reversed is "!?!" -> palindrome

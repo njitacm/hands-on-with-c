@@ -1,0 +1,5 @@
+strlen("hello") = 5
+strlen("NJIT ACM") = 8
+strlen("") = 0
+strlen("a") = 1
+strlen("The quick brown fox jumps over the lazy dog") = 43

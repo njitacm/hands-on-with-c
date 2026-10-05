@@ -1,0 +1,4 @@
+strlen("pointer") = 7
+reverse: 2 1 3
+find: 2 found at index 2
+strcpy: "arithmetic" (returned dst)
